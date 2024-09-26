@@ -2,6 +2,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAT-Hins&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAT-Hins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Thanks to [Anurag](https://github.com/anuraghazra)'s stat plugin: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
