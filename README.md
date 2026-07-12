@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAT-Hins&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TAT-Hins&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAT-Hins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=TAT-Hins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Thanks to [Anurag](https://github.com/anuraghazra)'s stat plugin: [https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Thanks to [Stats Organization](https://github.com/stats-organization)'s stat plugin: [https://github.com/stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **TAT-Hins/TAT-Hins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
